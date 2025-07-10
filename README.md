@@ -1,4 +1,4 @@
-K-Means and Fuzzy C-Means Clustering from Scratch
+** K-Means and Fuzzy C-Means Clustering from Scratch
 
 This repository contains the full implementation of K-Means and Fuzzy C-Means clustering algorithms, built from scratch using Python, without any machine learning libraries (no scikit-learn, tensorflow, etc.).
 
