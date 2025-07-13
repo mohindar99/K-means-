@@ -10,9 +10,11 @@ The goal of the assignment was to analyze flu-related knowledge among high schoo
 
 	* Works for any number of clusters (k)
  
-	*Uses Euclidean distance
-        - Visualized in 3D for selected features
-	- Dunn Index implemented for cluster validity
+	* Uses Euclidean distance
+ 
+        * Visualized in 3D for selected features
+	
+ 	* Dunn Index implemented for cluster validity
 
 
 ✅ Fuzzy C-Means Clustering
@@ -29,6 +31,7 @@ The goal of the assignment was to analyze flu-related knowledge among high schoo
 
 
 ### Dataset Used
+
 	•	Flu.csv
 A dataset representing students’ behavior and awareness regarding flu and flu prevention (e.g., handwashing, risk, knowledge, sick status).
 
