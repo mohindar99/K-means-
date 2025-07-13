@@ -4,7 +4,7 @@
 
 The goal of the assignment was to analyze flu-related knowledge among high school students using unsupervised clustering techniques. The dataset used is Flu.csv.
 
-### Features Implemented:
+### Features Implemented :
 
 ✅ K-Means Clustering: 
 
@@ -17,10 +17,12 @@ The goal of the assignment was to analyze flu-related knowledge among high schoo
  	* Dunn Index implemented for cluster validity
 
 
-✅ Fuzzy C-Means Clustering
-	- Soft clustering with membership scores
-	- Supports hardening for comparison with K-Means
-	- Uses centroid values and Dunn Index for evaluation
+✅ Fuzzy C-Means Clustering:
+	* Soft clustering with membership scores
+ 
+	* Supports hardening for comparison with K-Means
+ 
+	* Uses centroid values and Dunn Index for evaluation
 
 ✅ Analysis Workflow
 	* Cluster evaluation for different values of k (2 to 10)
@@ -33,7 +35,8 @@ The goal of the assignment was to analyze flu-related knowledge among high schoo
 ### Dataset Used
 
 	•	Flu.csv
-A dataset representing students’ behavior and awareness regarding flu and flu prevention (e.g., handwashing, risk, knowledge, sick status).
+ 
+*A dataset representing students’ behavior and awareness regarding flu and flu prevention (e.g., handwashing, risk, knowledge, sick status).
 
 How to Run
 	1.	Requirements:
