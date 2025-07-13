@@ -8,6 +8,7 @@ The goal of the assignment was to analyze flu-related knowledge among high schoo
 
 ✅ K-Means Clustering
 	* Works for any number of clusters (k)
+ 
 	- Uses Euclidean distance
         - Visualized in 3D for selected features
 	- Dunn Index implemented for cluster validity
