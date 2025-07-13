@@ -6,10 +6,11 @@ The goal of the assignment was to analyze flu-related knowledge among high schoo
 
 ### Features Implemented:
 
-✅ K-Means Clustering
+✅ K-Means Clustering: 
+
 	* Works for any number of clusters (k)
  
-	- Uses Euclidean distance
+	*Uses Euclidean distance
         - Visualized in 3D for selected features
 	- Dunn Index implemented for cluster validity
 
